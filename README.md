@@ -2,7 +2,6 @@ Excel Comparison Tool
 
 Outil léger (Gradio + Python) pour comparer deux fichiers Excel sur une colonne clé et générer un fichier Excel de sortie avec les différences colorées.
 
-Description
 
 Compare deux feuilles Excel en utilisant une colonne clé (gère les clés dupliquées).
 
